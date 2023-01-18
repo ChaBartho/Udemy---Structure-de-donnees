@@ -58,6 +58,11 @@ public class Main {
 
         System.out.println(obj);
 
+//SET
+
+//FOREACH
+
+//MAP
 
 
 
